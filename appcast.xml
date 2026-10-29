@@ -3,15 +3,16 @@
     <channel>
         <title>Crev</title>
         <item>
-            <title>1.1.1</title>
-            <pubDate>Wed, 28 Oct 2026 19:00:07 +0000</pubDate>
-            <sparkle:version>69</sparkle:version>
-            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+            <title>1.2.0</title>
+            <pubDate>Thu, 29 Oct 2026 11:17:09 +0000</pubDate>
+            <sparkle:version>71</sparkle:version>
+            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul>
-<li>Test av automatisk oppdatering med Sparkle</li>
+<li>Aktiv fil velges ved klikk og piltaster, og SVG vises som bilde</li>
+<li>Vis PR-beskrivelsen med bilder øverst i PR-en</li>
 </ul>]]></description>
-            <enclosure url="https://github.com/agensdev/crev-releases/releases/download/v1.1.1/Crev.zip" type="application/octet-stream" sparkle:edSignature="Zt2AFVwAAMZij0iXK9+UPK+lMIEapWNf5us7ILXP3x6GHuYcUvIJdnlxHJ6/xjuYWqaKmRTgSkhCCphcLNtzAQ==" length="5864636"/>
+            <enclosure url="https://github.com/agensdev/crev-releases/releases/download/v1.2.0/Crev.zip" type="application/octet-stream" sparkle:edSignature="aZXRQXEE0V0fhIGl9huUzEGriaDY+A3QbBayidIX+sm0H5vNoJDaAinFEVbLD7MBbyDSumXyVBWFhnJQSriFDg==" length="5928604"/>
         </item>
     </channel>
 </rss>
