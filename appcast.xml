@@ -3,17 +3,15 @@
     <channel>
         <title>Crev</title>
         <item>
-            <title>1.3.0</title>
-            <pubDate>Thu, 29 Oct 2026 13:13:54 +0000</pubDate>
-            <sparkle:version>74</sparkle:version>
-            <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
+            <title>1.4.0</title>
+            <pubDate>Mon, 02 Nov 2026 13:16:00 +0000</pubDate>
+            <sparkle:version>75</sparkle:version>
+            <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul>
-<li>Åpne en PR fra andre apper, og gå tilbake og fremover</li>
-<li>Kommentarfeltet måler høyden på en kopi av teksten</li>
-<li>Åpne PR: alle repoer i én liste, og ⌘O går rett dit</li>
+<li>Pil opp og ned går mellom filene, venstre og høyre kollapser og utvider</li>
 </ul>]]></description>
-            <enclosure url="https://github.com/agensdev/crev-releases/releases/download/v1.3.0/Crev.zip" type="application/octet-stream" sparkle:edSignature="cgUE0C9L5LQYo7OZ/cCg9+tWu6OkEkD650J70ZN7qHoBfy683UnGxRkhjwb5/U4lBTk0cZ/lGkisDDkYeVzSDg==" length="5944639"/>
+            <enclosure url="https://github.com/agensdev/crev-releases/releases/download/v1.4.0/Crev.zip" type="application/octet-stream" sparkle:edSignature="cfHi3SpknUBPFOA3pZ0Jfm3m9L/xKSyHezWD6kv26gbIrk01XOOXbsf2CFjnTYbEInYj3IhTFKGx/6za5LQVAA==" length="5944965"/>
         </item>
     </channel>
 </rss>
