@@ -3,15 +3,17 @@
     <channel>
         <title>Crev</title>
         <item>
-            <title>1.4.0</title>
-            <pubDate>Mon, 02 Nov 2026 13:16:00 +0000</pubDate>
-            <sparkle:version>75</sparkle:version>
-            <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+            <title>1.5.0</title>
+            <pubDate>Wed, 04 Nov 2026 13:35:40 +0000</pubDate>
+            <sparkle:version>78</sparkle:version>
+            <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul>
-<li>Pil opp og ned går mellom filene, venstre og høyre kollapser og utvider</li>
+<li>Emoji-forslag når man skriver :navn i tekstfeltene, som i Slack</li>
+<li>Enter sender i AI-chatten, og ⌘Enter gir ny linje</li>
+<li>Filene hentes på nytt etter at PR-en lastes inn igjen, så koden får farger</li>
 </ul>]]></description>
-            <enclosure url="https://github.com/agensdev/crev-releases/releases/download/v1.4.0/Crev.zip" type="application/octet-stream" sparkle:edSignature="cfHi3SpknUBPFOA3pZ0Jfm3m9L/xKSyHezWD6kv26gbIrk01XOOXbsf2CFjnTYbEInYj3IhTFKGx/6za5LQVAA==" length="5944965"/>
+            <enclosure url="https://github.com/agensdev/crev-releases/releases/download/v1.5.0/Crev.zip" type="application/octet-stream" sparkle:edSignature="Fm1gqU6LaUkTLqw7FHXk2G1gCxUl7qojPZ+5OFYuurXn9FoJcJ9zSPYOY3/cCe6WcV1q9Tg6GxNUfGYqUOf+DQ==" length="5988925"/>
         </item>
     </channel>
 </rss>
