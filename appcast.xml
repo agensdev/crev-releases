@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
-        <title>Crev</title>
+        <title>Carew</title>
         <item>
-            <title>1.5.1</title>
-            <pubDate>Wed, 11 Nov 2026 11:03:29 +0000</pubDate>
-            <sparkle:version>79</sparkle:version>
-            <sparkle:shortVersionString>1.5.1</sparkle:shortVersionString>
+            <title>1.6.0</title>
+            <pubDate>Wed, 11 Nov 2026 22:12:23 +0000</pubDate>
+            <sparkle:version>80</sparkle:version>
+            <sparkle:shortVersionString>1.6.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul>
-<li>AI-oppsummeringen starter med en gang når en PR åpnes fra en lenke</li>
+<li>Appen heter nå Carew, og carew:// åpner PR-er</li>
 </ul>]]></description>
-            <enclosure url="https://github.com/agensdev/crev-releases/releases/download/v1.5.1/Crev.zip" type="application/octet-stream" sparkle:edSignature="X1lu7fq+rGfysUg4QpGkUtoBiBVUJgEiH0+jq/GndsiWuQY9ywlUuIC1Za6yVip1tDxLkA41xGGnOuY5kwTgDA==" length="5995604"/>
+            <enclosure url="https://github.com/agensdev/crev-releases/releases/download/v1.6.0/Carew.zip" type="application/octet-stream" sparkle:edSignature="XR+2trJJw41UeC+IzttUzQTKmjQAlzH62nAsaBLzAnyKKu9AC04EWzkEIhcNCPdlAvINB5YyUf1i1vwcrnAPAg==" length="5996574"/>
         </item>
     </channel>
 </rss>
