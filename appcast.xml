@@ -3,15 +3,16 @@
     <channel>
         <title>Carew</title>
         <item>
-            <title>1.6.0</title>
-            <pubDate>Wed, 11 Nov 2026 22:12:23 +0000</pubDate>
-            <sparkle:version>80</sparkle:version>
-            <sparkle:shortVersionString>1.6.0</sparkle:shortVersionString>
+            <title>1.6.1</title>
+            <pubDate>Tue, 24 Nov 2026 09:55:11 +0000</pubDate>
+            <sparkle:version>82</sparkle:version>
+            <sparkle:shortVersionString>1.6.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul>
-<li>Appen heter nå Carew, og carew:// åpner PR-er</li>
+<li>PR-beskrivelsen er maks 800 punkter bred og sentrert</li>
+<li>Enter velger emoji-forslaget i stedet for å gi linjeskift, også i Fullfør review</li>
 </ul>]]></description>
-            <enclosure url="https://github.com/agensdev/crev-releases/releases/download/v1.6.0/Carew.zip" type="application/octet-stream" sparkle:edSignature="XR+2trJJw41UeC+IzttUzQTKmjQAlzH62nAsaBLzAnyKKu9AC04EWzkEIhcNCPdlAvINB5YyUf1i1vwcrnAPAg==" length="5996574"/>
+            <enclosure url="https://github.com/agensdev/crev-releases/releases/download/v1.6.1/Carew.zip" type="application/octet-stream" sparkle:edSignature="fCTe3opgQEi8spKM04ZJeavia1/eRSjEG+7vE68vyZjUhwr1oq9ilQEPtsp8z12MV7XSPPpCN6NlJSjLUY9NDw==" length="5998251"/>
         </item>
     </channel>
 </rss>
