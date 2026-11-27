@@ -3,17 +3,17 @@
     <channel>
         <title>Carew</title>
         <item>
-            <title>1.7.0</title>
-            <pubDate>Fri, 27 Nov 2026 10:44:54 +0000</pubDate>
-            <sparkle:version>85</sparkle:version>
-            <sparkle:shortVersionString>1.7.0</sparkle:shortVersionString>
+            <title>1.8.0</title>
+            <pubDate>Fri, 27 Nov 2026 12:45:12 +0000</pubDate>
+            <sparkle:version>88</sparkle:version>
+            <sparkle:shortVersionString>1.8.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul>
-<li>AI-samtaler starter på middels effort i stedet for lav</li>
-<li>Mer luft mellom linjene i Markdown-tekst</li>
-<li>Gjennomgang: AI-en deler endringene inn i sider som leses i en rekkefølge som gir mening</li>
+<li>Spørsmålet om et navn eller uttrykk ber om forklaring i sammenheng med PR-en, og om problemer og mulige forbedringer</li>
+<li>Dra over et uttrykk på en linje for å be AI-en forklare det, ikke bare ett navn</li>
+<li>En sett fil viser all koden når den åpnes i gjennomgangen, som i listen over alle filene</li>
 </ul>]]></description>
-            <enclosure url="https://github.com/agensdev/crev-releases/releases/download/v1.7.0/Carew.zip" type="application/octet-stream" sparkle:edSignature="oRfRiPeXhwKb3zpL/DzEp/uxh5usL0rEzfdNFxa6wpIDhDwU8rL8rJM6s1pDcOJB7NZ2OPhxy6c7LCgJMIEeDA==" length="6101222"/>
+            <enclosure url="https://github.com/agensdev/crev-releases/releases/download/v1.8.0/Carew.zip" type="application/octet-stream" sparkle:edSignature="3LKCp4WRnLo+OM2nD7gdf6sE009e64TnoV+6WMzW0fmyZGmzIg0yKGq0wDbJcB9Z7NKVAcaY8f8kK9EWhz3zDg==" length="6103089"/>
         </item>
     </channel>
 </rss>
